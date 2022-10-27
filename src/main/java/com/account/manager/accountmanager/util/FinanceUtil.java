@@ -8,9 +8,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Chukwudere Adindu.
- */
+
 public class FinanceUtil {
 
 	public static List<Account> accounts;
